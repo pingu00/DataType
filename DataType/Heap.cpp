@@ -87,7 +87,7 @@
 //		insert_max_heap(&heap, list[i]);
 //
 //	printf("\n큰 키 %d 선택 리스트\n", sel_num);
-//	for (int i = 0; i < sel_num; i++) 
+//	for (int i = 0; i < sel_num; i++)
 //		printf("%d ", delete_max_heap(&heap).key);
 //	printf("\n");
 //	
